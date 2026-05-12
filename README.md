@@ -25,15 +25,13 @@
 
 ```yaml
 name: micc99
-location: 中国
+location: 中国-福建
 currently:
   - 💻 正在构建有趣的项目
   - 🌱 持续学习新技术
   - 🎯 探索开源世界
 interests:
   - 后端开发
-  - 云原生技术
-  - 系统设计
   - 开源贡献
 ```
 
@@ -128,7 +126,7 @@ interests:
 
 <p align="center">
   <b>📫 欢迎联系我！</b><br/>
-  <a href="https://github.com/micc99">GitHub</a> · <a href="#">博客</a> · <a href="mailto:your.email@example.com">Email</a>
+  <a href="https://github.com/micc99">GitHub</a> · <a href="#">博客</a> · <a href="843986925@qq.com">Email</a>
 </p>
 
 <p align="center">
